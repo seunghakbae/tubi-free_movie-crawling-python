@@ -1,11 +1,10 @@
 # tubi-free_movie-crawling-python
 
-Crawls list of free streaming movies from [tubi. 
+Crawls list of free streaming movies from tubi site. 
 
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 # Extracted data
 
