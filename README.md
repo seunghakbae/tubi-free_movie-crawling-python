@@ -96,7 +96,7 @@ run tubi_crawler file with python
 
 **output_path should always be in xlsx form or error will occur**
 ~~~
-python tubi_crawling.py output_path=tubi.xlsx
+python tubi_crawling.py tubi.xlsx
 ~~~
 
 Then it will crawl from tubi site and create excel folder at the specified path like below.
