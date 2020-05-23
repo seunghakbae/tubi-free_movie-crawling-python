@@ -11,7 +11,11 @@ Crawls list of free streaming movies from [tubi site](https://tubitv.com/) using
 &nbsp;
 
 # Requirements
-You may find requirements in requirements.txt which can be installed using pip install -r requirements.txt
+You may find requirements in requirements.txt which can be installed using commands below.
+
+~~~
+pip install -r requirements.txt
+~~~
 
 **More info:**
 
